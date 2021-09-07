@@ -14,6 +14,9 @@ DigiKeyboard.delay(1000);
 DigiKeyboard.sendKeyStroke(KEY_ARROW_LEFT);
 DigiKeyboard.delay(3000);
 DigiKeyboard.sendKeyStroke(KEY_ENTER);
+        //DigiKeyboard.delay(3000);
+        //DigiKeyboard.sendKeyStroke(KEY_TAB, MOD_ALT_LEFT);
+        //Only uncomment the above lines if Windows doesn't automatically focus on the command-prompt window, requires every other window to be closed
 
   //make directory for script
 DigiKeyboard.delay(2000);

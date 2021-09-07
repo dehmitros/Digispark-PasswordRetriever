@@ -13,9 +13,9 @@
     <br/>
     <a href="https://github.com/dehmitros/Digispark-PasswordRetriever/issues">Report Bugs</a>
   </p>
-</p>
 
 ![Downloads](https://img.shields.io/github/downloads/dehmitros/Digispark-PasswordRetriever/total) 
+</p>
 
 ## Table Of Contents
 * [Warning](#warning)
