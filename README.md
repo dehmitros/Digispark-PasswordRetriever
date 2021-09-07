@@ -11,21 +11,24 @@
     Back-up all your passwords in a few minutes!
     <br/>
     <br/>
-    <a href="https://github.com/dehmitros/Digispark-PasswordRetriever/issues">Report Bug</a>
-    .
+    <a href="https://github.com/dehmitros/Digispark-PasswordRetriever/issues">Report Bugs</a>
   </p>
 </p>
 
 ![Downloads](https://img.shields.io/github/downloads/dehmitros/Digispark-PasswordRetriever/total) 
 
 ## Table Of Contents
-
+* [Warning](#warning)
 * [About the Project](#about-the-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [License](#license)
 * [Author](#authors)
+
+## Warning
+
+This script was created for backing-up YOUR OWN passwords and to be used strictly for computers YOU own! It is not supposed to be a hack or to be used as one. I am in NO WAY responsible for anything illegal that happens through the use of this script.
 
 ## About The Project
 
@@ -87,15 +90,10 @@ DigiKeyboard.delay("enter number in milliseconds");
 
 Just upload the modified script to your DigiSpark and you're good to go!
 
-### Creating A Pull Request
-
-
-
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/dehmitros/Digispark-PasswordRetriever/blob/main/LICENSE.md) for more information.
+Distributed under the ODC Open Database License (ODbL). See [LICENSE](https://github.com/dehmitros/Digispark-PasswordRetriever/blob/master/LICENSE.md) for more information.
 
 ## Authors
 
-* **DehMitros**[DehMitros](https://github.com/dehmitros/) - **
-
+* [DehMitros](https://github.com/dehmitros/)
